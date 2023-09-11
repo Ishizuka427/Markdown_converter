@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Ishizuka427/Markdown_converter#readme",
   "type": "module",
   "dependencies": {
-    "commander": "9.0"
+    "commander": "9.0",
+    "marked": "4.0"
   }
 }
