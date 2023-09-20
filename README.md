@@ -27,3 +27,9 @@ Set the module to type to use ECMAScript with the pkg command
 ```sh
 $ npm pkg set type=module
 ```
+
+Create a test environment with Mocha
+
+```sh
+npm install --save-dev mocha@10
+```
